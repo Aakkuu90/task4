@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+.ankit {
+    width: 700px;
+    margin: 100px auto;
+    border: 3px solid black;
+}
+.ankit img {
+    width: 100%;
+    display: block;
+}
+.ankit h1 {
+    text-align: center;
+    margin: 0;
+    background: linear-gradient(300deg, rgba(64, 214, 107, 1) 0%, rgba(253 , 187 , 45 , 1 ) 100%);
+    height: 50px;
+}
